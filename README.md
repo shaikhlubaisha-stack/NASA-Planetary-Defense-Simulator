@@ -1,5 +1,5 @@
-# Impactor-2025 Simulator
-
+# NASA Planetary Defense Simulator
+Powered by NASA data sources • Mission Control Aesthetics
 An interactive web-based tool that visualizes the potential impact of asteroid "Impactor-2025" using real NASA and USGS data. The simulator allows users to test deflection strategies and see the consequences of asteroid impacts.
 
 ## Features
@@ -155,4 +155,5 @@ MIT License - Feel free to use for educational purposes.
 - NASA for providing the NEO API
 - USGS for elevation data
 - The open-source community for Three.js, Leaflet, and React
+
 
